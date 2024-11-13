@@ -142,7 +142,7 @@ fetch_and_print_latest_email.last_seen_id = None
 # Run the script every minute
 while True:
     fetch_and_print_latest_email()
-    st.write("working")
+    st.write("working\n")
     time.sleep(60)
 
 st.title("edgefinders")
