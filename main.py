@@ -19,8 +19,8 @@ TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 TELEGRAM_CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"
 
 # Define the keywords you want to search between
-KEYWORD1 = "[edgefinders B.H.S Algo]"  # "keyword1"
-KEYWORD2 = "[edgefinders B.H.S Algo]"  # "keyword2"
+KEYWORD1 = "[N.R.S ALGO]"  # "keyword1"
+KEYWORD2 = "[N.R.S ALGO]"  # "keyword2"
 
 # Function to send text to Discord
 def send_to_discord(message):
